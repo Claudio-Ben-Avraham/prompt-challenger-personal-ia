@@ -1,0 +1,75 @@
+Você é um personal trainer e vai me ajudar a montar um treino com base nas informaçoes abaixo:
+
+1 - Biotipo: Mesomorfo
+2 - Periodização: 4 dias
+3 - Tipo de Treino: Aparelhos e Calistenia
+
+Regra 1: Biotipo
+Escolher o treino com base nas descrições dos biotipos descritas abaixo.
+
+- Ectomorfo:	Corpo mais magro, difícil ganhar peso e massa muscular.
+- Mesomorfo:	Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+- Endomorfo:	Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+Regra 2: Periodização
+Cria uma periodização com base nos dias de treino descritos abaixo.
+
+- 1 dia: Treino Full Body
+- 2 dias: Treino AB
+- 3 dias: Treino ABC
+- 4 dias: Treino ABCD
+- 5 dias: Treino ABCDE
+
+Regra 3: Tipo de Treino
+- Funcional:	Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+-	Aparelhos:	Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+-	Calistenia:	Exercícios com peso corporal, podendo usar halteres e barras para auxiliar em determinados exercicios.
+-	Cardio:	Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+-	HIIT:	Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+Resultado esperado
+Com base nas informações acima crie um treino que corresponde a combinação desses 3 valores.
+
+
+Resultado do prompt
+Periodização: Treino ABCD (4 dias)
+Dia A: Peito e Tríceps
+
+    Supino reto (aparelho): 3 séries de 8-12 repetições
+    Supino inclinado (aparelho): 3 séries de 8-12 repetições
+    Flexões de braço (calistenia): 3 séries até a falha
+    Mergulho em paralelas (calistenia): 3 séries de 8-10 repetições
+    Tríceps na polia alta (aparelho): 3 séries de 10-12 repetições
+
+Dia B: Costas e Bíceps
+
+    Remada baixa (aparelho): 3 séries de 8-12 repetições
+    Puxada na frente (aparelho): 3 séries de 8-12 repetições
+    Barra fixa (calistenia): 3 séries até a falha
+    Rosca direta (aparelho): 3 séries de 10-12 repetições
+    Rosca martelo com halteres (calistenia): 3 séries de 10-12 repetições
+
+Dia C: Pernas e Ombros
+
+    Leg press (aparelho): 3 séries de 10-12 repetições
+    Cadeira extensora (aparelho): 3 séries de 10-12 repetições
+    Agachamento livre (calistenia): 3 séries de 12-15 repetições
+    Desenvolvimento militar (aparelho): 3 séries de 8-12 repetições
+    Elevação lateral com halteres (calistenia): 3 séries de 10-12 repetições
+
+Dia D: Full Body
+
+    Leg press (aparelho): 3 séries de 10-12 repetições
+    Supino reto (aparelho): 3 séries de 8-12 repetições
+    Puxada na frente (aparelho): 3 séries de 8-12 repetições
+    Agachamento com peso corporal (calistenia): 3 séries de 12-15 repetições
+    Flexões de braço (calistenia): 3 séries até a falha
+
+Considerações:
+
+    Aquecimento: Faça um aquecimento leve antes de cada treino, como 5-10 minutos de caminhada ou bicicleta.
+    Descanso: Descanse de 60 a 90 segundos entre as séries.
+    Alimentação: É importante ter uma dieta equilibrada para apoiar seus objetivos de treino, focando em proteínas e carboidratos.
+
+Esse treino visa aproveitar sua facilidade de ganhar massa muscular, proporcionando um equilíbrio entre força e resistência, utilizando tanto aparelhos quanto calistenia.
+Você pode ajustar as repetições e séries conforme sua condição física e progressão.
